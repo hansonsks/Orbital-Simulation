@@ -1,4 +1,4 @@
-# Computer Simulation - Final Project: Solar
+# Orbital Motion - A very basic simulation of sending a satellite to Mars using the Hohmann Transfer Orbit
 RunSolar displays the animation of the five innermost planets in the solar system
 
 RunExperiments runs each of the experiments based on the number you put in
